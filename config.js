@@ -6,5 +6,5 @@
 //
 // Ejemplo una vez deployado: "https://florar-admin.vercel.app"
 window.FLORAR_CONFIG = {
-  ADMIN_API_URL: "https://florar-landing.vercel.app"
+  ADMIN_API_URL: "https://admin.florartallerceramica.com.ar"
 };
